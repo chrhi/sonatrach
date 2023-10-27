@@ -64,7 +64,7 @@ const Page: NextPage = () => {
     <>
      <NotAuthHeader  />
 
-      <main className=" w-full custom-hieght-navbar bg-white flex justify-center pl-16  items-center  ">
+      <main className=" w-full  custom-hieght-navbar bg-white flex justify-center pl-16  items-center  ">
         
       <div className="w-[50%] max-w-md p-4 z-[999] bg-white border shadow-2xl border-gray-200 rounded-md  sm:p-6 md:p-8 ">
     <form className="space-y-6" action="#">
